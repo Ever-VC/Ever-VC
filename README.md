@@ -34,7 +34,7 @@
             <li>🎯 <b>I’m currently focusing on</b>: <a href="https://github.com/Ever-VC/Python_basico_2.git">Learning Python</a>, ⭐️ star the projects if you like it 🤩.</li>
             <li>🤔 <b>I’m currently open for</b>: A new job opportunity.</li>
             <li>📫 <b>How to reach me</b>: Catch and follow me from the above links 👆.</li>
-            <li>😄 <b>Fun fact</b>: I love Cars(🎧), Codeing(💻), Traveling(🌍), and Photography(📷).</li>
+            <li>😄 <b>Fun fact</b>: I love Music(🎧), Codeing(💻), Traveling(🌍), and Photography(📷).</li>
         </ul>
     </div>
   <br>
