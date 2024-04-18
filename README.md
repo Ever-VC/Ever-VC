@@ -45,13 +45,13 @@
   ```json
   {
       "skills": [
-          "C#",                                "HTML5",                                        "Git",
-          "PHP",                               "CSS",                                          "Clean Code",
-          "JavaScript",                        "SCSS",                                         "Language Integrated Query (LINQ)",
-          "Python",                            "Laravel",                                      "Object-Oriented Programming (OOP)",
-          "Java",                              "Bootstrap",                                    "Problem Solving",
-          "C++",                               "Database Systems",                             "Algorithms",
-          "SQL",                               "Data Structures",                              "Unix / Linux"
+          "C#",                  "HTML5",                     "Git",
+          "PHP",                 "CSS",                       "Clean Code",
+          "JavaScript",          "SCSS",                      "Language Integrated Query (LINQ)",
+          "Python",              "Laravel",                   "Object-Oriented Programming (OOP)",
+          "Java",                "Bootstrap",                 "Problem Solving",
+          "C++",                 "Database Systems",          "Algorithms",
+          "SQL",                 "Data Structures",           "Unix / Linux"
       ]
   }
   ```
