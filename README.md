@@ -10,7 +10,7 @@
     <a href="mailto:evervc.oficial@gmail.com"><img img src="https://img.shields.io/badge/gmail-%23EA4335.svg?style=flat&logo=gmail&logoColor=white" alt="Gmail"/></a>
   	<a href="https://github.com/ever-vc"><img src="https://img.shields.io/badge/github-%23181717.svg?style=flat&logo=github&logoColor=white" alt="GitHub"/></a>
   	<a href="https://www.linkedin.com/in/ever-vc/"><img src="https://img.shields.io/badge/linkedin-%230A66C2.svg?style=flat&logo=linkedin&logoColor=white" alt="LinkedIn"/></a>
-  	<a href="https://www.facebook.com/profile.php?id=100050486026246"><img src="https://img.shields.io/badge/facebook-%231877F2.svg?style=flat&logo=facebook&logoColor=white" alt="Facebook"/></a>
+  	<a href="https://www.facebook.com/ever.vc.oficial"><img src="https://img.shields.io/badge/facebook-%231877F2.svg?style=flat&logo=facebook&logoColor=white" alt="Facebook"/></a>
   	<a href="https://www.instagram.com/ever._.vc/"><img src="https://img.shields.io/badge/instagram-%23E4405F.svg?style=flat&logo=instagram&logoColor=white" alt="Instagram"/></a>
   </div>
   <div align=center>
